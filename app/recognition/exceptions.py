@@ -1,0 +1,2 @@
+class RecognitionLimit(Exception):
+    pass
